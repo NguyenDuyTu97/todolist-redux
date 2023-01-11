@@ -86,6 +86,8 @@ function Work(props) {
 
   console.log("work component");
 
+  console.log("sds");
+
   useEffect(() => {
     setUsersUpdate(getUsersByStatus(users));
   }, [users]);
