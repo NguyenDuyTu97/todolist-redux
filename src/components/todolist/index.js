@@ -64,7 +64,7 @@ function TodoList() {
 
     return (
         <div className="container">
-            <h2>This is todo list redux javascript</h2>
+            <h2>This is todo list redux javascript - TEST REVERT</h2>
             <div id="heading">
                 <input
                     name='username'
