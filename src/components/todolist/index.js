@@ -66,7 +66,6 @@ function TodoList() {
         <div className="container">
             <h2>This is todo list redux javascript - test rebase 01</h2>
             <h2>This is todo list redux javascript</h2>
-            <div>test revert 01</div>
             <div id="heading">
                 <input
                     name='username'
