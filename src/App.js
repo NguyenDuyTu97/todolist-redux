@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="">
       <TodoList />
-      halo 01
+      halo 001
     </div>
   );
 }
