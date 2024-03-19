@@ -82,7 +82,7 @@ function DragWork() {
     }
 
     function onDragStart({ ...rest }) {
-        console.log(rest, "rest");
+        console.log(rest, "rest 01");
     }
 
     return (
