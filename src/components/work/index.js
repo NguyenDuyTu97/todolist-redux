@@ -84,10 +84,6 @@ function Work(props) {
     props;
   const [usersUpdate, setUsersUpdate] = useState(getUsersByStatus(users));
 
-  console.log("work component");
-
-  console.log("sds");
-
   useEffect(() => {
     setUsersUpdate(getUsersByStatus(users));
   }, [users]);
