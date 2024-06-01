@@ -1,0 +1,9 @@
+.main-content {
+    flex: 1;
+    padding: 20px;
+    border: 2px dashed #aaa;
+}
+
+.main-content.dragging {
+    background-color: #f0f0f0;
+}

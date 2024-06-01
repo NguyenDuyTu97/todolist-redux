@@ -1,11 +1,12 @@
 import './App.css';
+import TestResize from './components/testResize';
 import TodoList from './components/todolist';
 
 function App() {
   return (
     <div className="">
-      <TodoList />
-      halo 001999
+      <TestResize />
+      {/* <TodoList /> */}
     </div>
   );
 }
